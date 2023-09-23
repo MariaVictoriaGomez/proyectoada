@@ -294,7 +294,7 @@ footer p {
     }
 
         .ada{
-        margin-left:0px;
+        margin-left:-71px;
     }
       nav{
         display: flex;
@@ -316,8 +316,11 @@ footer p {
 .texto2{
     margin:165px;
     margin-right:94px ;
+  
 }
-
+.texto2 p{
+    width: 300px;
+}
 .Programas{
     height: auto;
 }
