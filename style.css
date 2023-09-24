@@ -305,6 +305,10 @@ footer p {
       .hero{
         top:145px;
       }
+
+      .terxto1 h2{
+        font-size: 40px;
+      }
     .programadoras{
         display: flex;
         flex-direction: column;
@@ -323,6 +327,10 @@ footer p {
 }
 .Programas{
     height: auto;
+}
+
+.Programas h2{
+    font-size: 35px;
 }
        .programas-contenedor{
         display: flex;
